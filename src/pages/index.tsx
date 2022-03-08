@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   return (
     <Layout>
       <Head>
-        <title>Home</title>
+        <title>Qin_todo_geya</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="flex flex-col items-start py-6 px-4 space-y-4 w-full min-h-full sm:flex-row sm:justify-between sm:py-16 sm:px-[81px] sm:space-y-0 sm:space-x-4">
